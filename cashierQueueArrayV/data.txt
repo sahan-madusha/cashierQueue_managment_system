@@ -1,0 +1,2 @@
+Customer name: nawab - Queue number: 1 - Position in Queue: 1 - Burger Qty: 5 - Remaining Burger Qty: 45
+Customer name: nawab - Queue number: 1 - Position in Queue: 1 - Burger Qty: 5 - Remaining Burger Qty: 45
